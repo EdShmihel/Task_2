@@ -1,0 +1,167 @@
+.footer {
+
+    width: 1600px;
+    height: 397px;
+    background: #1C1E53;
+}
+
+
+.footer-contact {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px;
+
+}
+
+
+.footer-email,
+.footer-phone {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+
+}
+
+.footer-contact-group {
+    background: #FCD980;
+    margin-left: 160px;
+    width: 500px;
+}
+
+.footer-descr {
+    color: #FFF;
+    width: 399px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    padding-left: 160px;
+}
+
+
+.page-contact {
+    width: 1600px;
+    height: 800px;
+    background: #FFF;
+}
+
+
+.contact-title {
+    color: #282938;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px;
+    padding-top: 128px;
+}
+
+
+.contact-descr {
+    width: 562px;
+    padding-top: 16px;
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    padding-left: 519px;
+    padding-bottom: 0;
+}
+
+.contact-conteiner {
+    width: 800px;
+    height: 400px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #F4F6FC;
+    margin-left: 400px;
+
+}
+
+
+.form-input {
+    border-radius: 8px;
+    border: 1px solid #005BBB;
+    background: #FFF;
+    width: 454px;
+    height: 60px;
+    color: #131212;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+.form-label {
+    color: #131212;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 30px;
+    margin-bottom: 8px;
+}
+
+.form-field {
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.form-btn {
+    border-radius: 41px;
+    background: #FCD980;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgba(244, 246, 252, 0.20);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    border: 0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    cursor: pointer;
+    margin-top: 48px;
+    width: 185px;
+    height: 60px;
+    margin-left: 30px;
+}
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Poppins';
+    font-weight: lighter;
+}
+
+
+.main-page-navigator {
+    display: flex;
+    width: 1600px;
+    height: 92px;
+    background: #1C1E53;
+}
+
+.main-page-logo {
+    width: 122px;
+    height: 24.709px;
+    padding-top: 33px;
+    padding-left: 160px;
+    padding-bottom: 0px;
+}
